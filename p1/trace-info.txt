@@ -1,0 +1,3 @@
+/home/thordurh22/verkefni/Assignment-6-STY/p1/trace-compile.txt
+ 1915876  3831811 27133109 trace-compile.txt
+992ea33de42bd6779ce1ced307c2df90  trace-compile.txt
